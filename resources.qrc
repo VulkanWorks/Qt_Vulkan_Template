@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>shaders/compiled_shaders/shader.frag.spv</file>
+        <file>shaders/compiled_shaders/shader.vert.spv</file>
+    </qresource>
+</RCC>
